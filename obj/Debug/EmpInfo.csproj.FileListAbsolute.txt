@@ -1,0 +1,9 @@
+C:\Users\Antech\source\repos\EmpInfo\bin\Debug\EmpInfo.exe.config
+C:\Users\Antech\source\repos\EmpInfo\bin\Debug\EmpInfo.exe
+C:\Users\Antech\source\repos\EmpInfo\bin\Debug\EmpInfo.pdb
+C:\Users\Antech\source\repos\EmpInfo\obj\Debug\EmpInfo.csprojAssemblyReference.cache
+C:\Users\Antech\source\repos\EmpInfo\obj\Debug\EmpInfo.Form1.resources
+C:\Users\Antech\source\repos\EmpInfo\obj\Debug\EmpInfo.Properties.Resources.resources
+C:\Users\Antech\source\repos\EmpInfo\obj\Debug\EmpInfo.csproj.GenerateResource.cache
+C:\Users\Antech\source\repos\EmpInfo\obj\Debug\EmpInfo.exe
+C:\Users\Antech\source\repos\EmpInfo\obj\Debug\EmpInfo.pdb
